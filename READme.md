@@ -31,6 +31,10 @@ pip install -r requirements.txt
 ```python
 python telegram_bot.py
 ```
+Also, you can see simple example in main.py
+```python
+python main.py
+```
 
 
 ## 📰 Usage
